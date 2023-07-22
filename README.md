@@ -22,9 +22,11 @@ Requirements:
 
 !pip install scipy
 
-![image](https://github.com/AarohiSingla/Detection-Transformer/assets/60029146/72981ad0-39c6-4f4b-b599-1356ba830c8d)
+![image](https://github.com/AarohiSingla/Detection-Transformer/assets/60029146/363726ba-01d0-4856-80a7-f5adc103ee7e)
 
-![image](https://github.com/AarohiSingla/Detection-Transformer/assets/60029146/e56ff5ae-267d-4cd8-bbe7-d6a5b95e9269)
+![image](https://github.com/AarohiSingla/Detection-Transformer/assets/60029146/297a2dae-7525-4bdb-8f40-6571fa201160)
+![image](https://github.com/AarohiSingla/Detection-Transformer/assets/60029146/55fe0e82-e744-4787-9567-49d764928a3c)
+
 
 
 
