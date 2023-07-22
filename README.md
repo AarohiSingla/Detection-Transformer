@@ -6,21 +6,21 @@ To understand the code, check this video: https://youtu.be/xuh37qziXnw
 
 Requirements:
 
-# !python -m pip install --upgrade pip
+!python -m pip install --upgrade pip
 
-# !pip install supervision==0.3.0
+!pip install supervision==0.3.0
 
-# !pip install transformers
+!pip install transformers
 
-# !pip install pytorch-lightning
+!pip install pytorch-lightning
 
-# !pip install timm
+!pip install timm
 
-# !pip install cython
+!pip install cython
 
-# !pip install pycocotools
+!pip install pycocotools
 
-# !pip install scipy
+!pip install scipy
 
 ![image](https://github.com/AarohiSingla/Detection-Transformer/assets/60029146/72981ad0-39c6-4f4b-b599-1356ba830c8d)
 
