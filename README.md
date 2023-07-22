@@ -28,3 +28,8 @@ Requirements:
 
 
 
+Reference: https://github.com/NielsRogge/Transformers-Tutorials/blob/master/DETR/Fine_tuning_DetrForObjectDetection_on_custom_dataset_(balloon).ipynb
+
+Original DETR paper: https://arxiv.org/abs/2005.12872
+
+Original DETR repo: https://github.com/facebookresearch/detr
